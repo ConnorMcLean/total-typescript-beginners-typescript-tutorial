@@ -9,6 +9,27 @@ Take the course on [Total TypeScript](https://totaltypescript.com/tutorials/begi
 - Text explanations
 - A built-in Stackblitz editor
 
+## Completion
+
+- [x] Exercise 01
+- [x] Exercise 02
+- [x] Exercise 03
+- [x] Exercise 04
+- [x] Exercise 05
+- [x] Exercise 06
+- [x] Exercise 07
+- [x] Exercise 08
+- [x] Exercise 09
+- [x] Exercise 10
+- [x] Exercise 11
+- [x] Exercise 12
+- [x] Exercise 13
+- [x] Exercise 14
+- [x] Exercise 15
+- [x] Exercise 16
+- [x] Exercise 17
+- [x] Exercise 18
+
 ## Installation Instructions
 
 Clone this repo or [open in Gitpod](https://gitpod.io/#https://github.com/total-typescript/beginners-typescript).
